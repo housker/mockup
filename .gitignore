@@ -1,0 +1,13 @@
+node_modules
+package-lock.json
+.mockup.yaml.swp
+Dockerfile
+README.md
+__pycache__/
+all.yaml
+aws-auth-cm.yaml
+basic.yaml
+health.yaml
+healthz.yaml
+locustfile.py
+mockup.yaml
